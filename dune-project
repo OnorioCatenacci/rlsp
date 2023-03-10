@@ -19,7 +19,7 @@
  (name rlsp)
  (synopsis "Rosie Language Server Protocol")
  (description "An LSP for the Rosie Pattern Language")
- (depends ocaml dune)
+ (depends ocaml dune ounit2)
  (tags
   ("Rosie Pattern Language" "LSP")))
 
